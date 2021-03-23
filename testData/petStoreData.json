@@ -1,0 +1,19 @@
+
+ 
+{
+   
+    "id" : 1,
+    "category": {
+      "id": 2,
+      "name" : "string"
+    },
+    "name" : "Starfish",
+    "photoUrls" : ["string"],
+    "tags": [
+      {
+        "id": 1,
+        "name" : "string"
+      }
+    ],
+    "status": "available"
+  }
